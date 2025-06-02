@@ -1,3 +1,6 @@
+#  install.md for instructions #
+----
+
 ----
 # Nxt Blockchain Creation Kit #
 
