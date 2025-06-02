@@ -1,4 +1,4 @@
-#  install.md for instructions #
+#  INSTALL.md for instructions #
 ----
 
 ----
