@@ -1,0 +1,374 @@
+2025-05-05 21:12:39 INFO: nxt.enableStackTraces = "true"
+2025-05-05 21:12:39 INFO: nxt.enableLogTraceback = "false"
+2025-05-05 21:12:39 INFO: logging enabled
+2025-05-05 21:12:39 INFO: socksProxyHost not defined
+2025-05-05 21:12:39 INFO: socksProxyPort not defined
+2025-05-05 21:12:39 FINE: java.version = 11.0.26
+2025-05-05 21:12:39 FINE: java.vm.version = 11.0.26+4-post-Ubuntu-1ubuntu122.04
+2025-05-05 21:12:39 FINE: java.vm.name = OpenJDK 64-Bit Server VM
+2025-05-05 21:12:39 FINE: java.vendor = Ubuntu
+2025-05-05 21:12:39 FINE: java.vm.vendor = Ubuntu
+2025-05-05 21:12:39 FINE: java.home = /usr/lib/jvm/java-11-openjdk-amd64
+2025-05-05 21:12:39 FINE: java.library.path = /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+2025-05-05 21:12:39 FINE: java.class.path = galaservice.jar
+2025-05-05 21:12:39 FINE: os.arch = amd64
+2025-05-05 21:12:39 FINE: sun.arch.data.model = 64
+2025-05-05 21:12:39 FINE: os.name = Linux
+2025-05-05 21:12:39 FINE: file.encoding = UTF-8
+2025-05-05 21:12:39 FINE: java.security.policy = null
+2025-05-05 21:12:39 FINE: java.security.manager = null
+2025-05-05 21:12:39 FINE: nxt.runtime.mode = null
+2025-05-05 21:12:39 FINE: nxt.runtime.dirProvider = null
+2025-05-05 21:12:39 FINE: availableProcessors = 4
+2025-05-05 21:12:39 FINE: maxMemory = 3919577088
+2025-05-05 21:12:39 FINE: processId = 18197
+2025-05-05 21:12:39 INFO: nxt.isTestnet = "false"
+2025-05-05 21:12:39 INFO: nxt.isOffline = "false"
+2025-05-05 21:12:39 INFO: nxt.isLightClient = "false"
+2025-05-05 21:12:39 INFO: nxt.customLoginWarning = "IMPORTANT NOTICE! This is not a testnet. This login page gives you direct access to the real Gala public blockchain. Use at your own risk. Our team is dedicated to keeping this website secure and up to date at all times but Test Strana disclaims all liability regarding eventual loss of funds or stolen passphrases which might arise as a result of malicious third party actions against this website.For a safe way to work, please download the offline wallet. Read more on the web address www.teststrana.com "
+2025-05-05 21:12:39 INFO: nxt.maxNumberOfTransactions not defined or not numeric, using default value 255
+2025-05-05 21:12:39 INFO: nxt.maxRollback = "800"
+2025-05-05 21:12:39 INFO: nxt.forgingDelay = "20"
+2025-05-05 21:12:39 INFO: nxt.forgingSpeedup = "3"
+2025-05-05 21:12:39 INFO: nxt.batchCommitSize = "100"
+2025-05-05 21:12:39 INFO: nxt.maxPrunableLifetime = "7776000"
+2025-05-05 21:12:39 INFO: nxt.includeExpiredPrunable = "true"
+2025-05-05 21:12:39 INFO: nxt.correctInvalidFees = "false"
+2025-05-05 21:12:39 INFO: nxt.disableFullTextSearch = "false"
+2025-05-05 21:12:39 INFO: nxt.disableMetadataDetection = "false"
+2025-05-05 21:12:39 INFO: nxt.statementLogThreshold = "10000"
+2025-05-05 21:12:39 INFO: nxt.transactionLogThreshold = "15000"
+2025-05-05 21:12:39 INFO: nxt.transactionLogInterval = "15"
+2025-05-05 21:12:39 INFO: nxt.dbCacheKB = "0"
+2025-05-05 21:12:39 INFO: nxt.dbUrl not defined
+2025-05-05 21:12:39 INFO: nxt.dbType = "h2"
+2025-05-05 21:12:39 INFO: nxt.dbDir = "./gala_db/nxt"
+2025-05-05 21:12:39 INFO: nxt.dbParams = "DB_CLOSE_ON_EXIT=FALSE"
+2025-05-05 21:12:39 INFO: nxt.dbUsername = "sa"
+2025-05-05 21:12:39 INFO: nxt.dbPassword = "{not logged}"
+2025-05-05 21:12:39 INFO: nxt.maxDbConnections = "30"
+2025-05-05 21:12:39 INFO: nxt.dbLoginTimeout = "70"
+2025-05-05 21:12:39 INFO: nxt.dbDefaultLockTimeout = "60"
+2025-05-05 21:12:39 INFO: nxt.dbMaxMemoryRows = "1000000"
+2025-05-05 21:12:39 FINE: Database jdbc url set to jdbc:h2:./gala_db/nxt;DB_CLOSE_ON_EXIT=FALSE;CACHE_SIZE=262144 username sa
+2025-05-05 21:12:39 INFO: nxt.connectionPoolImpl = "nxt.db.pool.H2ConnectionPool"
+2025-05-05 21:12:39 INFO: nxt.useStrongSecureRandom = "false"
+2025-05-05 21:12:40 FINE: Database connection pool current size: 1
+2025-05-05 21:12:40 INFO: Database update may take a while if needed, current db version 250...
+2025-05-05 21:12:40 INFO: nxt.enableTransactionRebroadcasting = "true"
+2025-05-05 21:12:40 INFO: nxt.testUnconfirmedTransactions not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.maxUnconfirmedTransactions = "2000"
+2025-05-05 21:12:40 INFO: nxt.trimDerivedTables = "true"
+2025-05-05 21:12:40 INFO: nxt.numberOfForkConfirmations = "0"
+2025-05-05 21:12:40 INFO: nxt.simulateEndlessDownload not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.trimFrequency = "1000"
+2025-05-05 21:12:40 INFO: nxt.stopDownloadHeight not defined or not numeric, using default value 0
+2025-05-05 21:12:40 INFO: nxt.disableGetMoreBlocksThread not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.unconfirmed_transaction not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.disableProcessTransactionsThread not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.disableRebroadcastTransactionsThread not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.disableRemoveUnconfirmedTransactionsThread not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.disableProcessWaitingTransactionsThread not defined, using default false
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account_lease not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account_info not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.public_key = "5"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account_asset not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account_currency not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account_property not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.enablePublicKeyCache = "true"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.account_control_phasing not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.ledgerTrimKeep = "30000"
+2025-05-05 21:12:40 INFO: nxt.ledgerAccounts = "*"
+2025-05-05 21:12:40 INFO: Account ledger is tracking all accounts
+2025-05-05 21:12:40 INFO: nxt.ledgerLogUnconfirmed = "2"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.alias = "5"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.alias_offer not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.asset not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.asset_property not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.tag not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.goods not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.purchase not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.purchase_feedback not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.purchase_public_feedback not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.ask_order not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.bid_order not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.processPolls = "true"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.poll not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.poll_result not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.phasing_poll not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.phasing_poll_voter not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.phasing_poll_linked_transaction not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.phasing_poll_result not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.trade not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.asset_transfer not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.asset_history not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.asset_dividend not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.deleteProcessedVotes = "true"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.vote not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.phasing_vote not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.currency not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.currency_supply not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.buy_offer not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.sell_offer not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.currency_founder not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.currency_mint not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.currency_transfer not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.exchange not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.exchange_request not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.deleteFinishedShufflings = "false"
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.shuffling not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.shuffling_participant not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.shuffling_data not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.prunable_message not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.tagged_data not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.tagged_data_timestamp not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.tagged_data_extend not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.trimFrequencyMultiplier.data_tag not defined or not numeric, using default value 1
+2025-05-05 21:12:40 INFO: nxt.maxPeerRequestSize not defined or not numeric, using default value 1048576
+2025-05-05 21:12:40 INFO: nxt.maxPeerResponseSize not defined or not numeric, using default value 1048576
+2025-05-05 21:12:40 INFO: nxt.maxPeerMessageSize not defined or not numeric, using default value 10485760
+2025-05-05 21:12:40 INFO: nxt.hideErrorDetails = "false"
+2025-05-05 21:12:40 INFO: nxt.myPlatform not defined
+2025-05-05 21:12:40 INFO: nxt.myAddress = "coin.galagalerija.com"
+2025-05-05 21:12:40 INFO: nxt.peerServerPort = "7001"
+2025-05-05 21:12:40 INFO: nxt.shareMyAddress = "true"
+2025-05-05 21:12:40 INFO: nxt.enablePeerUPnP = "true"
+2025-05-05 21:12:40 INFO: nxt.myHallmark = "71981b699499b9c3f94a23847ff7e546430a124d0e8403fe5e7da7be46749b261500636f696e2e67616c6167616c6572696a612e636f6d801a060022ff340121ae1ed0a71d898b4ce4886759bddbb41475a261f93c925a03cc4650b1c002d30c5ebe7aee065901d0d081af366d9a54f80dddd38329e4456166655f7b77e9c177"
+2025-05-05 21:12:40 INFO: nxt.adminPassword = "{not logged}"
+2025-05-05 21:12:40 INFO: nxt.maxAPIRecords = "100"
+2025-05-05 21:12:40 INFO: nxt.enableAPIUPnP = "true"
+2025-05-05 21:12:40 INFO: nxt.apiServerIdleTimeout = "30000"
+2025-05-05 21:12:40 INFO: nxt.apiServerCORS = "true"
+2025-05-05 21:12:40 INFO: nxt.forwardedForHeader = "X-Forwarded-For"
+2025-05-05 21:12:40 INFO: nxt.allowedBotHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1]; *;"
+2025-05-05 21:12:40 INFO: nxt.enableAPIServer = "true"
+2025-05-05 21:12:40 INFO: nxt.apiServerPort = "7003"
+2025-05-05 21:12:40 INFO: nxt.apiServerSSLPort = "7003"
+2025-05-05 21:12:40 INFO: nxt.apiServerHost = "0.0.0.0"
+2025-05-05 21:12:40 INFO: nxt.disableAdminPassword = "false"
+2025-05-05 21:12:40 INFO: nxt.apiSSL = "false"
+2025-05-05 21:12:41 INFO: API server using HTTP port 7003
+2025-05-05 21:12:41 INFO: nxt.apiResourceBase = "./html/www"
+2025-05-05 21:12:41 INFO: nxt.apiWelcomeFile = "index.html"
+2025-05-05 21:12:41 INFO: nxt.javadocResourceBase = "./html/doc"
+2025-05-05 21:12:41 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2025-05-05 21:12:41 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2025-05-05 21:12:41 INFO: nxt.enableAPIServerGZIPFilter = "true"
+2025-05-05 21:12:41 INFO: nxt.apiFrameOptionsSameOrigin = "true"
+2025-05-05 21:12:41 INFO: nxt.apiCustomSetupImpl not defined
+2025-05-05 21:12:41 INFO: nxt.disabledAPIs not defined
+2025-05-05 21:12:41 INFO: nxt.disabledAPITags not defined
+2025-05-05 21:12:41 FINE: My peer info:
+{"hallmark":"71981b699499b9c3f94a23847ff7e546430a124d0e8403fe5e7da7be46749b261500636f696e2e67616c6167616c6572696a612e636f6d801a060022ff340121ae1ed0a71d898b4ce4886759bddbb41475a261f93c925a03cc4650b1c002d30c5ebe7aee065901d0d081af366d9a54f80dddd38329e4456166655f7b77e9c177","announcedAddress":"coin.galagalerija.com","apiPort":7003,"application":"Gala","apiServerIdleTimeout":30000,"services":"21","version":"1.12.3","platform":"Linux amd64","disabledAPIs":"","shareAddress":true}
+2025-05-05 21:12:41 INFO: nxt.defaultPeers = "galagalerija.com; teststrana.com; wdc.teststrana.com; www.galagalerija.com; "
+2025-05-05 21:12:41 INFO: nxt.wellKnownPeers = "cdn.teststrana.com; galagalerija.com; pear.teststrana.com; cms.teststrana.com;  wdc.teststrana.com; "
+2025-05-05 21:12:41 INFO: nxt.knownBlacklistedPeers = "206.189.0.60; 159.65.194.178; 195.96.137.6"
+2025-05-05 21:12:41 INFO: nxt.maxNumberOfInboundConnections = "2000"
+2025-05-05 21:12:41 INFO: nxt.maxNumberOfOutboundConnections = "50"
+2025-05-05 21:12:41 INFO: nxt.maxNumberOfConnectedPublicPeers = "20"
+2025-05-05 21:12:41 INFO: nxt.maxNumberOfKnownPeers = "2000"
+2025-05-05 21:12:41 INFO: nxt.minNumberOfKnownPeers = "1000"
+2025-05-05 21:12:41 INFO: nxt.connectTimeout = "10000"
+2025-05-05 21:12:41 INFO: nxt.readTimeout = "20000"
+2025-05-05 21:12:41 INFO: nxt.enableHallmarkProtection = "true"
+2025-05-05 21:12:41 INFO: nxt.pushThreshold = "0"
+2025-05-05 21:12:41 INFO: nxt.pullThreshold = "0"
+2025-05-05 21:12:41 INFO: nxt.useWebSockets = "true"
+2025-05-05 21:12:41 INFO: nxt.webSocketIdleTimeout = "900000"
+2025-05-05 21:12:41 INFO: nxt.enablePeerServerGZIPFilter = "true"
+2025-05-05 21:12:41 INFO: nxt.blacklistingPeriod = "600000"
+2025-05-05 21:12:41 INFO: nxt.communicationLoggingMask = "0"
+2025-05-05 21:12:41 INFO: nxt.sendToPeersLimit = "10"
+2025-05-05 21:12:41 INFO: nxt.usePeersDb = "true"
+2025-05-05 21:12:41 INFO: nxt.savePeers = "true"
+2025-05-05 21:12:41 INFO: nxt.getMorePeers = "true"
+2025-05-05 21:12:41 INFO: nxt.cjdnsOnly = "false"
+2025-05-05 21:12:41 INFO: nxt.ignorePeerAnnouncedAddress = "false"
+2025-05-05 21:12:41 INFO: nxt.disablePeerConnectingThread not defined, using default false
+2025-05-05 21:12:41 INFO: nxt.disablePeerUnBlacklistingThread not defined, using default false
+2025-05-05 21:12:41 INFO: nxt.disableGetMorePeersThread not defined, using default false
+2025-05-05 21:12:41 INFO: nxt.peerServerHost = "0.0.0.0"
+2025-05-05 21:12:41 INFO: nxt.peerServerIdleTimeout = "30000"
+2025-05-05 21:12:41 INFO: nxt.enablePeerServerDoSFilter = "true"
+2025-05-05 21:12:41 INFO: nxt.peerServerDoSFilter.maxRequestsPerSec = "30"
+2025-05-05 21:12:41 INFO: nxt.peerServerDoSFilter.delayMs = "1000"
+2025-05-05 21:12:41 INFO: nxt.peerServerDoSFilter.maxRequestMs = "300000"
+2025-05-05 21:12:41 INFO: nxt.enableAPIProxy not defined, using default false
+2025-05-05 21:12:41 INFO: nxt.apiProxyBlacklistingPeriod = "7200"
+2025-05-05 21:12:41 INFO: nxt.forceAPIProxyServerURL not defined
+2025-05-05 21:12:41 INFO: nxt.proxyBootstrapNodes not defined
+2025-05-05 21:12:41 INFO: nxt.maxNumberOfForgers = "100"
+2025-05-05 21:12:41 INFO: nxt.enableFakeForging not defined, using default false
+2025-05-05 21:12:41 INFO: nxt.disableGenerateBlocksThread not defined, using default false
+2025-05-05 21:12:41 INFO: nxt.addOns not defined
+2025-05-05 21:12:41 INFO: nxt.debugTraceQuote = """
+2025-05-05 21:12:41 INFO: nxt.debugTraceSeparator = "	"
+2025-05-05 21:12:41 INFO: nxt.debugLogUnconfirmed = "false"
+2025-05-05 21:12:41 INFO: nxt.debugTraceAccounts not defined
+2025-05-05 21:12:41 INFO: nxt.debugTraceLog = "nxt-trace.csv"
+2025-05-05 21:12:41 FINE: Running 2 tasks...
+2025-05-05 21:12:41 INFO: Genesis block already in database
+2025-05-05 21:12:41 FINE: Will pop-off block 8307080883544863570
+2025-05-05 21:12:41 FINE: Loading known peers from the database...
+2025-05-05 21:12:41 FINE: Deleting blocks starting from height 491269
+2025-05-05 21:12:41 FINE: Database connection pool current size: 2
+2025-05-05 21:12:41 FINE: Average database transaction time is 0.034 seconds
+2025-05-05 21:12:41 FINE: Rollback from block 8307080883544863570 at height 491269 to 12661885828165617200 at 491268
+2025-05-05 21:12:41 INFO: Last block height: 491268
+2025-05-05 21:12:41 INFO: nxt.forceScan = "false"
+2025-05-05 21:12:41 FINE: Running 2 final tasks...
+2025-05-05 21:12:41 INFO: Looking for UPnP gateway device...
+2025-05-05 21:12:41 INFO: nxt.upnpGatewayTimeout not defined or not numeric, using default value 7000
+2025-05-05 21:12:41 INFO: nxt.upnpDiscoverTimeout not defined or not numeric, using default value 3000
+2025-05-05 21:12:50 FINE: There are no UPnP gateway devices
+2025-05-05 21:12:50 INFO: nxt.apiServerEnforcePOST = "true"
+2025-05-05 21:12:50 INFO: nxt.apiFixResponseContentType = "false"
+2025-05-05 21:12:50 INFO: Started API server at 0.0.0.0:7003
+2025-05-05 21:12:50 INFO: Started peer networking server at 0.0.0.0:7001
+2025-05-05 21:12:50 FINE: Starting 9 background jobs
+2025-05-05 21:12:50 FINE: Starting 2 delayed tasks
+2025-05-05 21:12:50 FINE: Failed to resolve peer address: coin.galagalerija.com
+2025-05-05 21:12:50 FINE: Known peers: 4
+2025-05-05 21:12:50 INFO: Initialization took 11 seconds
+2025-05-05 21:12:50 INFO: Gala server 1.12.3 started successfully.
+2025-05-05 21:12:50 INFO: Copyright © 2013-2016 The Nxt Core Developers.
+2025-05-05 21:12:50 INFO: Copyright © 2016-2022 Jelurida IP B.V.
+2025-05-05 21:12:50 INFO: Distributed under the Jelurida Public License version 1.2 for the Nxt Public Blockchain Platform, with ABSOLUTELY NO WARRANTY.
+2025-05-05 21:12:50 INFO: Client UI is at http://localhost:7003/index.html
+2025-05-05 21:12:50 FINE: GetInfo: peer 192.168.0.215 changed announced address from galagalerija.com to coin.galagalerija.com
+2025-05-05 21:12:50 FINE: Removing old announced address galagalerija.com for peer 192.168.0.215
+2025-05-05 21:28:32 FINE: Average database transaction time is 0.017 seconds
+2025-05-05 21:44:12 FINE: Average database transaction time is 0.009 seconds
+2025-05-05 21:49:43 FINE: Database connection pool current size: 3
+2025-05-05 21:50:04 FINE: Database connection pool current size: 4
+2025-05-05 21:59:45 FINE: Average database transaction time is 0.008 seconds
+2025-05-05 22:15:31 FINE: Average database transaction time is 0.007 seconds
+2025-05-05 22:32:02 FINE: Average database transaction time is 0.006 seconds
+2025-05-05 22:36:37 FINE: Unsupported protocol null
+2025-05-05 22:47:56 FINE: Average database transaction time is 0.005 seconds
+2025-05-05 23:03:31 FINE: Average database transaction time is 0.005 seconds
+2025-05-05 23:18:50 FINE: Average database transaction time is 0.005 seconds
+2025-05-05 23:34:02 FINE: Average database transaction time is 0.005 seconds
+2025-05-05 23:49:25 FINE: Average database transaction time is 0.005 seconds
+2025-05-06 00:04:26 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 00:06:17 FINE: Connect: announced address pear.teststrana.com now points to 192.168.0.200, replacing peer 94.250.147.130
+2025-05-06 00:19:27 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 00:34:51 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 00:50:44 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 01:07:01 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 01:22:46 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 01:38:45 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 01:54:38 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 02:09:57 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 02:25:08 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 02:40:08 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 02:56:12 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 03:11:57 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 03:26:59 FINE: Average database transaction time is 0.007 seconds
+2025-05-06 03:42:00 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 03:58:25 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 04:13:52 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 04:29:05 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 04:44:08 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 04:59:39 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 05:14:54 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 05:30:20 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 05:45:39 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 06:01:33 FINE: Average database transaction time is 0.009 seconds
+2025-05-06 06:16:35 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 06:32:00 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 06:47:28 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 07:02:37 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 07:18:00 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 07:33:49 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 07:49:51 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 08:06:02 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 08:21:21 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 08:37:05 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 08:41:53 FINE: Trimming account took 659ms
+2025-05-06 08:41:54 FINE: Trimming public_key took 1180ms
+2025-05-06 08:54:05 FINE: Average database transaction time is 0.102 seconds
+2025-05-06 09:09:32 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 09:24:35 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 09:40:33 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 09:55:44 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 10:11:06 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 10:26:27 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 10:42:22 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 10:57:53 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 11:13:24 FINE: Average database transaction time is 0.006 seconds
+2025-05-06 11:28:43 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 11:46:01 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 12:02:28 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 12:18:34 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 12:34:07 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 12:49:20 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 13:05:39 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 13:21:51 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 13:37:58 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 13:53:42 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 14:08:48 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 14:24:07 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 14:39:17 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 14:54:49 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 15:09:52 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 15:25:20 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 15:40:29 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 15:56:15 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 16:13:22 FINE: Average database transaction time is 0.004 seconds
+2025-05-06 16:29:16 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 16:44:24 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 17:00:03 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 17:15:50 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 17:31:18 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 17:47:30 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 18:02:59 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 18:18:10 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 18:33:30 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 18:48:40 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 19:05:41 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 19:21:14 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 19:36:33 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 19:52:08 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 20:08:17 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 20:24:43 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 20:39:54 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 20:55:44 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 21:11:23 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 21:27:27 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 21:43:47 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 21:58:58 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 22:14:26 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 22:30:11 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 22:45:19 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 23:00:25 FINE: Average database transaction time is 0.002 seconds
+2025-05-06 23:15:53 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 23:31:13 FINE: Average database transaction time is 0.003 seconds
+2025-05-06 23:46:18 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 00:01:51 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 00:17:28 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 00:33:34 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 00:39:35 FINE: Trimming account took 386ms
+2025-05-07 00:49:15 FINE: Average database transaction time is 0.023 seconds
+2025-05-07 01:05:07 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 01:21:07 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 01:36:53 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 01:52:00 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 02:07:52 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 02:23:34 FINE: Average database transaction time is 0.003 seconds
+2025-05-07 02:39:23 FINE: Average database transaction time is 0.002 seconds
+2025-05-07 02:54:29 FINE: Average database transaction time is 0.003 seconds
+2025-05-08 23:11:01 FINE: Unsupported protocol null
+2025-05-09 23:53:33 INFO: Shutting down...
+2025-05-09 23:53:33 INFO: nxt.maxNumberOfMonitors = "100"
+2025-05-09 23:53:33 INFO: Stopping background jobs...
+2025-05-09 23:53:33 INFO: shutting down scheduledThreadPool
+2025-05-09 23:53:33 INFO: ...Done
+2025-05-09 23:53:33 INFO: shutting down networkService
+2025-05-09 23:53:33 INFO: shutting down sendingService
+2025-05-09 23:53:33 INFO: shutting down peersService
+2025-05-09 23:53:33 INFO: nxt.disableCompactOnShutdown = "false"
+2025-05-09 23:53:33 INFO: Shutting down with compacting...
+2025-05-09 23:53:44 INFO: Database shutdown completed
+2025-05-09 23:53:44 INFO: Gala server 1.12.3 stopped.

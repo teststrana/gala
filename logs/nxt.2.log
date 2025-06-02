@@ -1,0 +1,255 @@
+2025-05-18 15:34:03 INFO: nxt.enableStackTraces = "true"
+2025-05-18 15:34:03 INFO: nxt.enableLogTraceback = "false"
+2025-05-18 15:34:03 INFO: logging enabled
+2025-05-18 15:34:03 INFO: socksProxyHost not defined
+2025-05-18 15:34:03 INFO: socksProxyPort not defined
+2025-05-18 15:34:03 FINE: java.version = 11.0.27
+2025-05-18 15:34:03 FINE: java.vm.version = 11.0.27+6-post-Ubuntu-0ubuntu122.04
+2025-05-18 15:34:03 FINE: java.vm.name = OpenJDK 64-Bit Server VM
+2025-05-18 15:34:03 FINE: java.vendor = Ubuntu
+2025-05-18 15:34:03 FINE: java.vm.vendor = Ubuntu
+2025-05-18 15:34:03 FINE: java.home = /usr/lib/jvm/java-11-openjdk-amd64
+2025-05-18 15:34:03 FINE: java.library.path = /usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+2025-05-18 15:34:03 FINE: java.class.path = galaservice.jar
+2025-05-18 15:34:03 FINE: os.arch = amd64
+2025-05-18 15:34:03 FINE: sun.arch.data.model = 64
+2025-05-18 15:34:03 FINE: os.name = Linux
+2025-05-18 15:34:03 FINE: file.encoding = UTF-8
+2025-05-18 15:34:03 FINE: java.security.policy = null
+2025-05-18 15:34:03 FINE: java.security.manager = null
+2025-05-18 15:34:03 FINE: nxt.runtime.mode = null
+2025-05-18 15:34:03 FINE: nxt.runtime.dirProvider = null
+2025-05-18 15:34:03 FINE: availableProcessors = 4
+2025-05-18 15:34:03 FINE: maxMemory = 3919577088
+2025-05-18 15:34:03 FINE: processId = 763
+2025-05-18 15:34:03 INFO: nxt.isTestnet = "false"
+2025-05-18 15:34:03 INFO: nxt.isOffline = "false"
+2025-05-18 15:34:03 INFO: nxt.isLightClient = "false"
+2025-05-18 15:34:03 INFO: nxt.customLoginWarning = "IMPORTANT NOTICE! This is not a testnet. This login page gives you direct access to the real Gala public blockchain. Use at your own risk. Our team is dedicated to keeping this website secure and up to date at all times but Test Strana disclaims all liability regarding eventual loss of funds or stolen passphrases which might arise as a result of malicious third party actions against this website.For a safe way to work, please download the offline wallet. Read more on the web address www.teststrana.com "
+2025-05-18 15:34:03 INFO: nxt.maxNumberOfTransactions not defined or not numeric, using default value 255
+2025-05-18 15:34:03 INFO: nxt.maxRollback = "800"
+2025-05-18 15:34:03 INFO: nxt.forgingDelay = "20"
+2025-05-18 15:34:03 INFO: nxt.forgingSpeedup = "3"
+2025-05-18 15:34:03 INFO: nxt.batchCommitSize = "100"
+2025-05-18 15:34:03 INFO: nxt.maxPrunableLifetime = "7776000"
+2025-05-18 15:34:03 INFO: nxt.includeExpiredPrunable = "true"
+2025-05-18 15:34:03 INFO: nxt.correctInvalidFees = "false"
+2025-05-18 15:34:03 INFO: nxt.disableFullTextSearch = "false"
+2025-05-18 15:34:03 INFO: nxt.disableMetadataDetection = "false"
+2025-05-18 15:34:04 INFO: nxt.statementLogThreshold = "10000"
+2025-05-18 15:34:04 INFO: nxt.transactionLogThreshold = "15000"
+2025-05-18 15:34:04 INFO: nxt.transactionLogInterval = "15"
+2025-05-18 15:34:04 INFO: nxt.dbCacheKB = "0"
+2025-05-18 15:34:04 INFO: nxt.dbUrl not defined
+2025-05-18 15:34:04 INFO: nxt.dbType = "h2"
+2025-05-18 15:34:04 INFO: nxt.dbDir = "./gala_db/nxt"
+2025-05-18 15:34:04 INFO: nxt.dbParams = "DB_CLOSE_ON_EXIT=FALSE"
+2025-05-18 15:34:04 INFO: nxt.dbUsername = "sa"
+2025-05-18 15:34:04 INFO: nxt.dbPassword = "{not logged}"
+2025-05-18 15:34:04 INFO: nxt.maxDbConnections = "30"
+2025-05-18 15:34:04 INFO: nxt.dbLoginTimeout = "70"
+2025-05-18 15:34:04 INFO: nxt.dbDefaultLockTimeout = "60"
+2025-05-18 15:34:04 INFO: nxt.dbMaxMemoryRows = "1000000"
+2025-05-18 15:34:04 FINE: Database jdbc url set to jdbc:h2:./gala_db/nxt;DB_CLOSE_ON_EXIT=FALSE;CACHE_SIZE=262144 username sa
+2025-05-18 15:34:04 INFO: nxt.connectionPoolImpl = "nxt.db.pool.H2ConnectionPool"
+2025-05-18 15:34:06 INFO: nxt.useStrongSecureRandom = "false"
+2025-05-18 15:34:08 FINE: Database connection pool current size: 1
+2025-05-18 15:34:08 INFO: Database update may take a while if needed, current db version 250...
+2025-05-18 15:34:08 INFO: nxt.enableTransactionRebroadcasting = "true"
+2025-05-18 15:34:08 INFO: nxt.testUnconfirmedTransactions not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.maxUnconfirmedTransactions = "2000"
+2025-05-18 15:34:08 INFO: nxt.trimDerivedTables = "true"
+2025-05-18 15:34:08 INFO: nxt.numberOfForkConfirmations = "0"
+2025-05-18 15:34:08 INFO: nxt.simulateEndlessDownload not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.trimFrequency = "1000"
+2025-05-18 15:34:08 INFO: nxt.stopDownloadHeight not defined or not numeric, using default value 0
+2025-05-18 15:34:08 INFO: nxt.disableGetMoreBlocksThread not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.unconfirmed_transaction not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.disableProcessTransactionsThread not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.disableRebroadcastTransactionsThread not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.disableRemoveUnconfirmedTransactionsThread not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.disableProcessWaitingTransactionsThread not defined, using default false
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account_lease not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account_info not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.public_key = "5"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account_asset not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account_currency not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account_property not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.enablePublicKeyCache = "true"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.account_control_phasing not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.ledgerTrimKeep = "30000"
+2025-05-18 15:34:08 INFO: nxt.ledgerAccounts = "*"
+2025-05-18 15:34:08 INFO: Account ledger is tracking all accounts
+2025-05-18 15:34:08 INFO: nxt.ledgerLogUnconfirmed = "2"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.alias = "5"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.alias_offer not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.asset not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.asset_property not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.tag not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.goods not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.purchase not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.purchase_feedback not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.purchase_public_feedback not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.ask_order not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.bid_order not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.processPolls = "true"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.poll not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.poll_result not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.phasing_poll not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.phasing_poll_voter not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.phasing_poll_linked_transaction not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.phasing_poll_result not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.trade not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.asset_transfer not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.asset_history not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.asset_dividend not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.deleteProcessedVotes = "true"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.vote not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.phasing_vote not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.currency not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.currency_supply not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.buy_offer not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.sell_offer not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.currency_founder not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.currency_mint not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.currency_transfer not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.exchange not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.exchange_request not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.deleteFinishedShufflings = "false"
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.shuffling not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.shuffling_participant not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.shuffling_data not defined or not numeric, using default value 1
+2025-05-18 15:34:08 INFO: nxt.trimFrequencyMultiplier.prunable_message not defined or not numeric, using default value 1
+2025-05-18 15:34:09 INFO: nxt.trimFrequencyMultiplier.tagged_data not defined or not numeric, using default value 1
+2025-05-18 15:34:09 INFO: nxt.trimFrequencyMultiplier.tagged_data_timestamp not defined or not numeric, using default value 1
+2025-05-18 15:34:09 INFO: nxt.trimFrequencyMultiplier.tagged_data_extend not defined or not numeric, using default value 1
+2025-05-18 15:34:09 INFO: nxt.trimFrequencyMultiplier.data_tag not defined or not numeric, using default value 1
+2025-05-18 15:34:09 INFO: nxt.maxPeerRequestSize not defined or not numeric, using default value 1048576
+2025-05-18 15:34:09 INFO: nxt.maxPeerResponseSize not defined or not numeric, using default value 1048576
+2025-05-18 15:34:09 INFO: nxt.maxPeerMessageSize not defined or not numeric, using default value 10485760
+2025-05-18 15:34:09 INFO: nxt.hideErrorDetails = "false"
+2025-05-18 15:34:09 INFO: nxt.myPlatform not defined
+2025-05-18 15:34:09 INFO: nxt.myAddress = "coin.galagalerija.com"
+2025-05-18 15:34:09 INFO: nxt.peerServerPort = "7001"
+2025-05-18 15:34:09 INFO: nxt.shareMyAddress = "true"
+2025-05-18 15:34:09 INFO: nxt.enablePeerUPnP = "true"
+2025-05-18 15:34:09 INFO: nxt.myHallmark = "71981b699499b9c3f94a23847ff7e546430a124d0e8403fe5e7da7be46749b261500636f696e2e67616c6167616c6572696a612e636f6d801a060022ff340121ae1ed0a71d898b4ce4886759bddbb41475a261f93c925a03cc4650b1c002d30c5ebe7aee065901d0d081af366d9a54f80dddd38329e4456166655f7b77e9c177"
+2025-05-18 15:34:09 INFO: nxt.adminPassword = "{not logged}"
+2025-05-18 15:34:09 INFO: nxt.maxAPIRecords = "100"
+2025-05-18 15:34:09 INFO: nxt.enableAPIUPnP = "true"
+2025-05-18 15:34:09 INFO: nxt.apiServerIdleTimeout = "30000"
+2025-05-18 15:34:09 INFO: nxt.apiServerCORS = "true"
+2025-05-18 15:34:09 INFO: nxt.forwardedForHeader = "X-Forwarded-For"
+2025-05-18 15:34:09 INFO: nxt.allowedBotHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1]; *;"
+2025-05-18 15:34:09 INFO: nxt.enableAPIServer = "true"
+2025-05-18 15:34:09 INFO: nxt.apiServerPort = "7003"
+2025-05-18 15:34:09 INFO: nxt.apiServerSSLPort = "7003"
+2025-05-18 15:34:09 INFO: nxt.apiServerHost = "0.0.0.0"
+2025-05-18 15:34:09 INFO: nxt.disableAdminPassword = "false"
+2025-05-18 15:34:09 INFO: nxt.apiSSL = "false"
+2025-05-18 15:34:09 INFO: API server using HTTP port 7003
+2025-05-18 15:34:09 INFO: nxt.apiResourceBase = "./html/www"
+2025-05-18 15:34:09 INFO: nxt.apiWelcomeFile = "index.html"
+2025-05-18 15:34:09 INFO: nxt.javadocResourceBase = "./html/doc"
+2025-05-18 15:34:09 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2025-05-18 15:34:09 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2025-05-18 15:34:09 INFO: nxt.enableAPIServerGZIPFilter = "true"
+2025-05-18 15:34:09 INFO: nxt.apiFrameOptionsSameOrigin = "true"
+2025-05-18 15:34:09 INFO: nxt.apiCustomSetupImpl not defined
+2025-05-18 15:34:09 INFO: nxt.disabledAPIs not defined
+2025-05-18 15:34:09 INFO: nxt.disabledAPITags not defined
+2025-05-18 15:34:09 FINE: My peer info:
+{"hallmark":"71981b699499b9c3f94a23847ff7e546430a124d0e8403fe5e7da7be46749b261500636f696e2e67616c6167616c6572696a612e636f6d801a060022ff340121ae1ed0a71d898b4ce4886759bddbb41475a261f93c925a03cc4650b1c002d30c5ebe7aee065901d0d081af366d9a54f80dddd38329e4456166655f7b77e9c177","announcedAddress":"coin.galagalerija.com","apiPort":7003,"application":"Gala","apiServerIdleTimeout":30000,"services":"21","version":"1.12.3","platform":"Linux amd64","disabledAPIs":"","shareAddress":true}
+2025-05-18 15:34:09 INFO: nxt.defaultPeers = "galagalerija.com; teststrana.com; wdc.teststrana.com; www.galagalerija.com; "
+2025-05-18 15:34:09 INFO: nxt.wellKnownPeers = "cdn.teststrana.com; galagalerija.com; pear.teststrana.com; cms.teststrana.com;  wdc.teststrana.com; "
+2025-05-18 15:34:09 INFO: nxt.knownBlacklistedPeers = "206.189.0.60; 159.65.194.178; 195.96.137.6"
+2025-05-18 15:34:09 INFO: nxt.maxNumberOfInboundConnections = "2000"
+2025-05-18 15:34:09 INFO: nxt.maxNumberOfOutboundConnections = "50"
+2025-05-18 15:34:09 INFO: nxt.maxNumberOfConnectedPublicPeers = "20"
+2025-05-18 15:34:09 INFO: nxt.maxNumberOfKnownPeers = "2000"
+2025-05-18 15:34:09 INFO: nxt.minNumberOfKnownPeers = "1000"
+2025-05-18 15:34:09 INFO: nxt.connectTimeout = "10000"
+2025-05-18 15:34:09 INFO: nxt.readTimeout = "20000"
+2025-05-18 15:34:09 INFO: nxt.enableHallmarkProtection = "true"
+2025-05-18 15:34:09 INFO: nxt.pushThreshold = "0"
+2025-05-18 15:34:09 INFO: nxt.pullThreshold = "0"
+2025-05-18 15:34:09 INFO: nxt.useWebSockets = "true"
+2025-05-18 15:34:09 INFO: nxt.webSocketIdleTimeout = "900000"
+2025-05-18 15:34:09 INFO: nxt.enablePeerServerGZIPFilter = "true"
+2025-05-18 15:34:09 INFO: nxt.blacklistingPeriod = "600000"
+2025-05-18 15:34:09 INFO: nxt.communicationLoggingMask = "0"
+2025-05-18 15:34:09 INFO: nxt.sendToPeersLimit = "10"
+2025-05-18 15:34:09 INFO: nxt.usePeersDb = "true"
+2025-05-18 15:34:09 INFO: nxt.savePeers = "true"
+2025-05-18 15:34:09 INFO: nxt.getMorePeers = "true"
+2025-05-18 15:34:09 INFO: nxt.cjdnsOnly = "false"
+2025-05-18 15:34:09 INFO: nxt.ignorePeerAnnouncedAddress = "false"
+2025-05-18 15:34:09 INFO: nxt.disablePeerConnectingThread not defined, using default false
+2025-05-18 15:34:09 INFO: nxt.disablePeerUnBlacklistingThread not defined, using default false
+2025-05-18 15:34:09 INFO: nxt.disableGetMorePeersThread not defined, using default false
+2025-05-18 15:34:09 INFO: nxt.peerServerHost = "0.0.0.0"
+2025-05-18 15:34:09 INFO: nxt.peerServerIdleTimeout = "30000"
+2025-05-18 15:34:09 INFO: nxt.enablePeerServerDoSFilter = "true"
+2025-05-18 15:34:09 INFO: nxt.peerServerDoSFilter.maxRequestsPerSec = "30"
+2025-05-18 15:34:09 INFO: nxt.peerServerDoSFilter.delayMs = "1000"
+2025-05-18 15:34:09 INFO: nxt.peerServerDoSFilter.maxRequestMs = "300000"
+2025-05-18 15:34:09 INFO: nxt.enableAPIProxy not defined, using default false
+2025-05-18 15:34:09 INFO: nxt.apiProxyBlacklistingPeriod = "7200"
+2025-05-18 15:34:09 INFO: nxt.forceAPIProxyServerURL not defined
+2025-05-18 15:34:09 INFO: nxt.proxyBootstrapNodes not defined
+2025-05-18 15:34:09 INFO: nxt.maxNumberOfForgers = "100"
+2025-05-18 15:34:09 INFO: nxt.enableFakeForging not defined, using default false
+2025-05-18 15:34:09 INFO: nxt.disableGenerateBlocksThread not defined, using default false
+2025-05-18 15:34:09 INFO: nxt.addOns not defined
+2025-05-18 15:34:09 INFO: nxt.debugTraceQuote = """
+2025-05-18 15:34:09 INFO: nxt.debugTraceSeparator = "	"
+2025-05-18 15:34:09 INFO: nxt.debugLogUnconfirmed = "false"
+2025-05-18 15:34:09 INFO: nxt.debugTraceAccounts not defined
+2025-05-18 15:34:09 INFO: nxt.debugTraceLog = "nxt-trace.csv"
+2025-05-18 15:34:09 FINE: Running 2 tasks...
+2025-05-18 15:34:09 INFO: Genesis block already in database
+2025-05-18 15:34:09 FINE: Will pop-off block 7614709851780499379
+2025-05-18 15:34:09 FINE: Loading known peers from the database...
+2025-05-18 15:34:09 FINE: Deleting blocks starting from height 493139
+2025-05-18 15:34:09 FINE: Database connection pool current size: 2
+2025-05-18 15:34:09 FINE: Average database transaction time is 0.029 seconds
+2025-05-18 15:34:09 FINE: Rollback from block 7614709851780499379 at height 493139 to 16406924659129828193 at 493138
+2025-05-18 15:34:09 INFO: Last block height: 493138
+2025-05-18 15:34:09 INFO: nxt.forceScan = "false"
+2025-05-18 15:34:09 FINE: Running 2 final tasks...
+2025-05-18 15:34:09 INFO: Looking for UPnP gateway device...
+2025-05-18 15:34:09 INFO: nxt.upnpGatewayTimeout not defined or not numeric, using default value 7000
+2025-05-18 15:34:09 INFO: nxt.upnpDiscoverTimeout not defined or not numeric, using default value 3000
+2025-05-18 15:34:18 FINE: There are no UPnP gateway devices
+2025-05-18 15:34:18 INFO: nxt.apiServerEnforcePOST = "true"
+2025-05-18 15:34:18 INFO: nxt.apiFixResponseContentType = "false"
+2025-05-18 15:34:18 INFO: Started API server at 0.0.0.0:7003
+2025-05-18 15:34:18 INFO: Started peer networking server at 0.0.0.0:7001
+2025-05-18 15:34:18 FINE: Starting 9 background jobs
+2025-05-18 15:34:18 FINE: Starting 2 delayed tasks
+2025-05-18 15:34:18 FINE: Failed to resolve peer address: coin.galagalerija.com
+2025-05-18 15:34:18 INFO: Initialization took 16 seconds
+2025-05-18 15:34:18 INFO: Gala server 1.12.3 started successfully.
+2025-05-18 15:34:18 FINE: Known peers: 3
+2025-05-18 15:34:18 INFO: Copyright © 2013-2016 The Nxt Core Developers.
+2025-05-18 15:34:18 INFO: Copyright © 2016-2022 Jelurida IP B.V.
+2025-05-18 15:34:18 INFO: Distributed under the Jelurida Public License version 1.2 for the Nxt Public Blockchain Platform, with ABSOLUTELY NO WARRANTY.
+2025-05-18 15:34:18 INFO: Client UI is at http://localhost:7003/index.html
+2025-05-18 15:34:18 FINE: GetInfo: peer 192.168.0.215 changed announced address from www.galagalerija.com to coin.galagalerija.com
+2025-05-18 15:34:18 FINE: Removing old announced address www.galagalerija.com for peer 192.168.0.215
+2025-05-18 18:28:41 FINE: GetInfo: peer 192.168.0.200 changed announced address from cdn.teststrana.com to wdc.teststrana.com
+2025-05-18 18:28:41 FINE: Removing old announced address cdn.teststrana.com for peer 192.168.0.200
+2025-05-18 18:28:41 FINE: Average database transaction time is 0.037 seconds
+2025-05-21 00:12:11 INFO: Shutting down...
+2025-05-21 00:12:11 INFO: nxt.maxNumberOfMonitors = "100"
+2025-05-21 00:12:11 INFO: Stopping background jobs...
+2025-05-21 00:12:11 INFO: shutting down scheduledThreadPool
+2025-05-21 00:12:11 INFO: ...Done
+2025-05-21 00:12:11 INFO: shutting down networkService
+2025-05-21 00:12:11 INFO: shutting down sendingService
+2025-05-21 00:12:11 INFO: shutting down peersService
+2025-05-21 00:12:11 INFO: nxt.disableCompactOnShutdown = "false"
+2025-05-21 00:12:11 INFO: Shutting down with compacting...
+2025-05-21 00:12:23 INFO: Database shutdown completed
+2025-05-21 00:12:23 INFO: Gala server 1.12.3 stopped.
