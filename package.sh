@@ -1,12 +1,12 @@
 #!/bin/sh
-VERSION=$1-1.12.3
+VERSION=1.12.3
 if [ -x ${VERSION} ];
 then
 	echo VERSION not defined
 	exit 1
 fi
 APPLICATION="gala"
-PACKAGE=${APPLICATION}-client-${VERSION}.zip
+PACKAGE=${APPLICATION}-${VERSION}.zip
 echo PACKAGE="${PACKAGE}"
 
 FILES="changelogs classes conf html lib src resource addons"
